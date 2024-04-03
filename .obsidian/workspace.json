@@ -11,7 +11,7 @@
             "id": "0215ec4dd92dc467",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawings.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawings.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Drawings.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,14 +143,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "3d-graph:3D Graph": false,
-      "periodic-notes:Open today": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "240c57f7c8172d4c",
+  "active": "0215ec4dd92dc467",
   "lastOpenFiles": [
-    "Excalidraw/Excalidraw.md",
     "Drawings.excalidraw.md",
+    "Excalidraw/Excalidraw.md",
     "Excalidraw",
     "Biology/+1 Biology.md",
     "Biology/Biology.md",
