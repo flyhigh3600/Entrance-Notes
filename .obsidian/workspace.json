@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "073aabbe7ebd5a1b",
+        "id": "67b63b8f4d064a38",
         "type": "tabs",
         "children": [
           {
-            "id": "0215ec4dd92dc467",
+            "id": "95f723e32dc2012b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -147,8 +147,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0215ec4dd92dc467",
+  "active": "95f723e32dc2012b",
   "lastOpenFiles": [
+    "CONTRIBUTE.md",
+    "LICENSE.md",
+    "README.md",
     "Drawings.excalidraw.md",
     "Excalidraw/Excalidraw.md",
     "Excalidraw",
@@ -174,9 +177,6 @@
     "Math/+2/+2.md",
     "Math/Math.md",
     "2024-04-03.md",
-    "2024-W14.md",
-    "CONTRIBUTE.md",
-    "LICENSE.md",
     "Untitled-1.css",
     "Untitled.canvas",
     "Math/+1/Conic sections.canvas",
