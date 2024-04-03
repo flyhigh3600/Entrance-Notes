@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "72b1439a73d985f1",
+        "id": "073aabbe7ebd5a1b",
         "type": "tabs",
         "children": [
           {
-            "id": "520d89d52ce0410a",
+            "id": "0215ec4dd92dc467",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Drawings.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Drawings.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Drawings.excalidraw.md"
+              }
             }
           },
           {
@@ -143,11 +147,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "3d-graph:3D Graph": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "520d89d52ce0410a",
+  "active": "240c57f7c8172d4c",
   "lastOpenFiles": [
+    "Excalidraw/Excalidraw.md",
+    "Drawings.excalidraw.md",
+    "Excalidraw",
     "Biology/+1 Biology.md",
     "Biology/Biology.md",
     "Biology/+2 Biology.md",
@@ -173,12 +181,9 @@
     "2024-W14.md",
     "CONTRIBUTE.md",
     "LICENSE.md",
-    "README.md",
-    "Math/+1/Conic sections.md",
     "Untitled-1.css",
     "Untitled.canvas",
     "Math/+1/Conic sections.canvas",
-    "Excalidraw",
     "Resources/Pasted image 20240403134856.png",
     "Resources/Pasted image 20240403135511.png",
     "Resources/Pasted image 20240403135327.png",

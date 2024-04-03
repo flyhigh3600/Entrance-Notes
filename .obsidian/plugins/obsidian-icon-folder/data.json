@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiExcalidraw",
       "LiDna",
       "LiRocket",
       "TiNote",
-      "LiNotebookText",
-      "TiMath"
+      "LiNotebookText"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -88,5 +88,9 @@
   "Biology/Biology.md": {
     "iconName": "LiDna",
     "iconColor": "#009919"
+  },
+  "Drawings.excalidraw.md": {
+    "iconName": "SiExcalidraw",
+    "iconColor": "#696235"
   }
 }
