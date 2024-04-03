@@ -1,24 +1,26 @@
-#Origin
-###### Open in Obsidian to view  correctly
-# Entrance notes
-These markdowns are made for all in need of a guide for the **complete** yet **comprehensive** info inside NCERT 11$^{th}$ and 12$^{th}$ class textbooks in a concise package and to my believes it seems like it does .you may use it according to my [[LICENSE]] file for your exam preparations , I suggest opening this in [Obsidian](https://obsidian.md/download) for the best experience.
-for getting my exact setup refer [[CONTRIBUTE]] file.
-for random devnotes and info :[[Sticky Notes]]
 
-## Index:
-#### simple index
+#Origin 
+
+**Open in Obsidian to view correctly**
+
+## Entrance Notes
+
+These markdowns serve as a comprehensive guide for those seeking complete information from NCERT class 11 and class 12 textbooks, presented concisely. I believe they fulfill this purpose effectively. You're welcome to use them for your exam preparations, following the guidelines outlined in my [LICENSE](LICENSE) file. For the optimal experience, I recommend opening these markdowns in [Obsidian](https://obsidian.md/download).
+
+For details on replicating my setup, please refer to the [CONTRIBUTE](CONTRIBUTE.md) file. For miscellaneous development notes and information, see [Sticky Notes](Sticky%20Notes.md).
+
+## Index
+
+### Simple Index
 - [Mathematics](Math/Math.md) 
 - [Physics](Physics/Physics.md)
 - [Chemistry](Chemistry/Chemistry.md)
 - [Biology](Biology/Biology.md)
-#### complete index
+
+### Complete Index
 ```folder-index-content
 ```
 
+<span style="color:#aaa">This project was created to help me prepare for entrance examinations like "JEE, NEET, CUET, etc."</span>
+```
 
-
-
-
-
-
-###### <span style="color:#aaa">this was a project for me to ace my entrance examinations like "JEE,NEET,CUET,etc..."</span>
