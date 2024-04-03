@@ -12,11 +12,11 @@ Welcome to our project! Whether you're a contributor or a user, here's how to ge
     
 2. **Open in Obsidian**: Download and install [Obsidian](https://obsidian.md/download), our preferred note-taking application.
     
-3. **Install Fonts**:
+
 
 > [!NOTE]
 > check it out and install if you want but now the fonts are being shipped with the files so no need to install
-
+3. **Install Fonts**:
     - [Comfortaa](https://fonts.google.com/specimen/Comfortaa) <span style="font-family:Comfortaa;">for Interface</span>
     - [Fredoka](https://fonts.google.com/specimen/Fredoka) <span style="font-family:Fredoka">for Editor</span>
     - [Share Tech Mono](https://fonts.google.com/specimen/Share+Tech+Mono) <span style="font-family: 'Tech Share Mono', monospace;">for Mono Space</span>
