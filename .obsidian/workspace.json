@@ -11,8 +11,12 @@
             "id": "95f723e32dc2012b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CONTRIBUTE.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CONTRIBUTE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CONTRIBUTE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CONTRIBUTE.md"
+              }
             }
           },
           {
@@ -147,8 +155,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "240c57f7c8172d4c",
+  "active": "95f723e32dc2012b",
   "lastOpenFiles": [
+    "Todos.md",
+    "CONTRIBUTE.md",
+    "check it out and install if you want but now the fonts are being shipped with the files so no need to install.md",
     "gg.g",
     "style.css",
     "styles.css",
@@ -175,9 +186,7 @@
     "Math/+1/Conic sections.md",
     "Math/+2 Math.md",
     "Math/+1 Math.md",
-    "CONTRIBUTE.md",
     "LICENSE.md",
-    "README.md",
     "Excalidraw",
     "Daily Notes",
     "Untitled-1.css",
@@ -192,7 +201,6 @@
     "Resources/Pasted image 20240401152943.png",
     "canvas.json",
     "Main.dart",
-    "track.py",
     "Math.canvas",
     "README.canvas",
     "Resources/Pasted image 20240401153019.png",
