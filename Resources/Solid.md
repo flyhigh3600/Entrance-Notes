@@ -1,0 +1,1 @@
+solid is something or some object that exists in [[3D Space]]

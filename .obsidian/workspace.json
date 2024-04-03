@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "d5893e4ea80c9532",
+    "type": "split",
+    "children": [
+      {
+        "id": "72b1439a73d985f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "520d89d52ce0410a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76487cf6be7177f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3acbdb242f36e6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "240c57f7c8172d4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99b1bdbbbd287b93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52d910a6845bd4f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71d6db94737db647",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb2791371baea311",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba982ce433314a55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a62abd9ad63bbb7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47e9dea6488c4929",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "defaae74567f7902",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd6f62f04a8f7982",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "3d-graph:3D Graph": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "520d89d52ce0410a",
+  "lastOpenFiles": [
+    "Biology/+1 Biology.md",
+    "Biology/Biology.md",
+    "Biology/+2 Biology.md",
+    "Breathing and exchange of gases.md",
+    "Chemistry/+2 Chemistry.md",
+    "Chemistry/Chemistry.md",
+    "Chemistry/+1 Chemistry.md",
+    "Physics/Physics.md",
+    "Daily Notes/3rd of April,2024.md",
+    "Daily Notes/Daily Notes.md",
+    "Daily Notes",
+    "Resources/Resources.md",
+    "Physics/+2/+2.md",
+    "Physics/+1/+1.md",
+    "Biology/+2/+2.md",
+    "Biology/+1/+1.md",
+    "Math/+1/+1.md",
+    "Chemistry/+2/+2.md",
+    "Chemistry/+1/+1.md",
+    "Math/+2/+2.md",
+    "Math/Math.md",
+    "2024-04-03.md",
+    "2024-W14.md",
+    "CONTRIBUTE.md",
+    "LICENSE.md",
+    "README.md",
+    "Math/+1/Conic sections.md",
+    "Untitled-1.css",
+    "Untitled.canvas",
+    "Math/+1/Conic sections.canvas",
+    "Excalidraw",
+    "Resources/Pasted image 20240403134856.png",
+    "Resources/Pasted image 20240403135511.png",
+    "Resources/Pasted image 20240403135327.png",
+    "Resources/Pasted image 20240403135135.png",
+    "Resources/Pasted image 20240403135106.png",
+    "\"Math",
+    "Resources/Pasted image 20240401152943.png",
+    "canvas.json",
+    "Main.dart",
+    "track.py",
+    "Math.canvas",
+    "README.canvas",
+    "Chemistry/+2",
+    "Data/Common",
+    "Biology/+2",
+    "Resources/Pasted image 20240401153019.png",
+    "Resources/Pasted image 20240401145617.png",
+    "Resources/Pasted image 20240401144221.png",
+    "Pasted image 20240401005411.png"
+  ]
+}

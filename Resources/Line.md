@@ -1,0 +1,1 @@
+Line is a [[1D]] object which exists in any of the [[Dimension]]

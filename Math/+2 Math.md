@@ -1,0 +1,13 @@
+# Maths chapters:
+1. [[+2 Relations and functions]]
+2. [[Inverse Trigonometric Function]]
+3. [[Matrices]]
+4. [[Determinants]]
+5. [[Continuity and differentiablity]]
+6. [[Application of Derivatives]]
+7. [[Integrals]]
+8. [[Application of Integrals]]
+9. [[Differential Equations]]
+10. [[Vector algebra]]
+11. [[Three dimensional Geometry]]
+12. [[Linear Programming]]

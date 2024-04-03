@@ -1,0 +1,92 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiDna",
+      "LiRocket",
+      "TiNote",
+      "LiNotebookText",
+      "TiMath"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "Resources": {
+    "iconName": "TiLibrary",
+    "iconColor": "#4b8154"
+  },
+  "Biology": {
+    "iconName": "LiDna",
+    "iconColor": "#009919"
+  },
+  "Chemistry": {
+    "iconName": "RiTestTubeLine",
+    "iconColor": "#008099"
+  },
+  "Math": {
+    "iconName": "TiMath",
+    "iconColor": "#8a7e00"
+  },
+  "Physics": {
+    "iconName": "LiRocket",
+    "iconColor": "#b83700"
+  },
+  "CONTRIBUTE.md": {
+    "iconName": "FiGitCommit",
+    "iconColor": "#5e5e5e"
+  },
+  "LICENSE.md": {
+    "iconName": "RiCreativeCommonsLine",
+    "iconColor": "#616161"
+  },
+  "README.md": "RiHand",
+  "Sticky Notes.md": {
+    "iconName": "FarNoteSticky",
+    "iconColor": "#4d6c2d"
+  },
+  "Todos.md": {
+    "iconName": "LiListTodo",
+    "iconColor": "#ff5c5c"
+  },
+  "Chemistry/Chemistry.md": {
+    "iconName": "RiTestTubeLine",
+    "iconColor": "#008099"
+  },
+  "Math/Math.md": {
+    "iconName": "TiMath",
+    "iconColor": "#8a7e00"
+  },
+  "Daily Notes": {
+    "iconName": "LiNotebookText",
+    "iconColor": "#9b789b"
+  },
+  "Daily Notes/Daily Notes.md": {
+    "iconName": "TiNote",
+    "iconColor": "#c39a79"
+  },
+  "Physics/Physics.md": {
+    "iconName": "LiRocket",
+    "iconColor": "#b83700"
+  },
+  "Biology/Biology.md": {
+    "iconName": "LiDna",
+    "iconColor": "#009919"
+  }
+}

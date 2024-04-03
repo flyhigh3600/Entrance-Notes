@@ -1,0 +1,19 @@
+{
+  "accentColor": "#027a20",
+  "theme": "obsidian",
+  "monospaceFontFamily": "Share Tech Mono",
+  "interfaceFontFamily": "Comfortaa",
+  "textFontFamily": "Fredoka,Dekko",
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 21,
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "floating-search-bar",
+    "floating-status-bar",
+    "custom-rainbow-colors",
+    "minimal-cards",
+    "notion-cards",
+    "its-frontmatter",
+    "custom-background"
+  ]
+}

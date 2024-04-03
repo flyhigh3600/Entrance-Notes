@@ -1,0 +1,16 @@
+
+# +1 Maths chapter 
+1. [[Sets]]
+2. [[ +1 Relations and functions ]]
+3. [[Trigonometric functions]]
+4. [[Complex numbers and quadratic equations]]
+5. [[Linear Inequalities]]
+6. [[Permutations and combinations]]
+7. [[Binomial theorem]]
+8. [[Sequences and Series]]
+9. [[Straight lines]]
+10. [[Conic sections]]
+11. [[Introduction to 3D geometry]]
+12. [[Limits and Derivatives]]
+13. [[Statistics]]
+14. [[Probability]]
