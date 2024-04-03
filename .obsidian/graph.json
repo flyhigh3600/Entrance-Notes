@@ -1,10 +1,10 @@
 {
   "collapse-filter": false,
-  "search": "- tag:#todo  ",
+  "search": "- tag:#todo  -tag:#null  - tag:#log",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 13238195
       }
+    },
+    {
+      "query": "path:Drawings",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 0.723958333333333,
   "linkDistance": 275,
-  "scale": 0.0889892578125,
-  "close": true
+  "scale": 0.45050811767578125,
+  "close": false
 }

@@ -1,4 +1,4 @@
-
+#Math 
 In [[3D Geometry]] the cone looks like:
 ![[Pasted image 20240401144221.png]]
 That is :

@@ -1,3 +1,4 @@
+#Math 
 # Maths chapters:
 1. [[+2 Relations and functions]]
 2. [[Inverse Trigonometric Function]]
