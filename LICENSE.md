@@ -1,5 +1,6 @@
 
-#assosiated 
+#assosiated
+---
 NCERT Exam Preparation Guide  © 2024  by \_flyhigh3600 is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) This excludes the references taken from other sources like [wikipedia](https://www.wikipedia.org) ,[NCERT](https://ncert.nic.in/),(questions from [Arihant](https://www.arihantbooks.com/))etc... as they are included in their own propertery  or open licencing schemes.
 ## Notice to copyright holders of the references (if i have violated your policies by the publishing of this repository )
 This guide is intended to serve as an open educational resource for students preparing for entrance examinations like JEE, NEET, and CUET. It is provided free of charge, with the goal of assisting students in their studies and fostering a collaborative learning environment and was created as concise reference **note** for me in my ***high school*** years.
