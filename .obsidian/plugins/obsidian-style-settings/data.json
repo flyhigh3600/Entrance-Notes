@@ -66,8 +66,8 @@
   "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false,
   "anp-custom-rainbow-colors@@rainbow-color-1-default": "rainbow-color-1-green",
   "anp-custom-rainbow-colors@@rainbow-color-2-default": "rainbow-color-2-blue",
-  "anp-custom-rainbow-colors@@rainbow-color-3-default": "rainbow-color-3-accent",
-  "anp-custom-rainbow-colors@@rainbow-color-4-default": "rainbow-color-4-yellow",
+  "anp-custom-rainbow-colors@@rainbow-color-3-default": "rainbow-color-3-lavender",
+  "anp-custom-rainbow-colors@@rainbow-color-4-default": "rainbow-color-4-lavender",
   "anp-custom-rainbow-colors@@rainbow-color-repeat": "rainbow-repeat-6",
   "anuppuccin-theme-settings@@anp-codeblock-numbers": true,
   "anp-its-frontmatter-settings@@frontmatter-background-opacity": 1,
@@ -75,9 +75,10 @@
   "anuppuccin-custom-background@@anp-background-image-dark": "linear-gradient(45deg, #ff7e5f, #feb47b)",
   "anuppuccin-custom-background@@anp-custom-bg-blur-dark": 0,
   "anuppuccin-custom-background@@anp-custom-bg-card-fg-opacity-dark": 1,
-  "anp-custom-rainbow-colors@@rainbow-color-5-default": "rainbow-color-5-red",
+  "anp-custom-rainbow-colors@@rainbow-color-5-default": "rainbow-color-5-yellow",
   "anuppuccin-theme-settings-extended@@anp-theme-ext-light": false,
   "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
   "anuppuccin-theme-settings@@anp-kanban-card-opacity": 0.7,
-  "anp-custom-rainbow-colors@@rainbow-color-6-default": "rainbow-color-6-teal"
+  "anp-custom-rainbow-colors@@rainbow-color-6-default": "rainbow-color-6-red",
+  "anp-custom-rainbow-colors@@rainbow-color-7-default": "rainbow-color-7-teal"
 }

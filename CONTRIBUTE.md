@@ -1,8 +1,4 @@
 #assosiated
-Got it, let's make it clearer that the first part is for both contributors and users:
-
----
-
 ### Project Setup and Contribution Guidelines
 
 Welcome to our project! Whether you're a contributor or a user, here's how to get started and make the most of our resources. Please note that the repository can be updated and committed using the GIT plugin included with the vault. While the plugin is developed by trusted parties, its functionality may not be flawless. Therefore, I cannot guarantee its performance. I do not benefit monetarily from its usage, nor do I provide any guarantees. Use the GIT plugin with caution, and understand that any risks associated with its use are solely your responsibility.
@@ -15,7 +11,8 @@ Welcome to our project! Whether you're a contributor or a user, here's how to ge
 
 
 > [!NOTE]
-> check it out and install if you want but now the fonts are being shipped with the files so no need to install
+> check it out and install if you want but now the fonts are being shipped with the files so no need to install this allowed us to make our project <span style="color:#0f0;"> :FabAndroid: </span>
+Android  compatable.
 3. **Install Fonts**:
     - [Comfortaa](https://fonts.google.com/specimen/Comfortaa) <span style="font-family:Comfortaa;">for Interface</span>
     - [Fredoka](https://fonts.google.com/specimen/Fredoka) <span style="font-family:Fredoka">for Editor</span>
