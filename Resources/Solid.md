@@ -1,1 +1,4 @@
-solid is something or some object that exists in [[3D Space]]
+#Math 
+In [[Math]]ematics, a [[Solid]] typically refers to a three-dimensional geometric object that occupies [[3D Space]] and has defined boundaries. Examples of [[Solids]] include [[cubes]], [[spheres]], [[cylinders]], and [[pyramids]].
+#Physics , #Chemistry 
+In [[Physics]] and [[Chemistry]], the term [[Solid]] refers to one of the [[States of matter]], alongside [[liquids]] and [[gases]]. [[Solids]] are characterized by [[particles]] that are closely packed together and have a definite shape and [[volume]]. Unlike [[liquids]] and [[gases]], the particles in a [[Solid]] are not free to move around; however, they can vibrate in their fixed positions.

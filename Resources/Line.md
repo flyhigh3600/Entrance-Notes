@@ -1,1 +1,2 @@
-Line is a [[1D]] object which exists in any of the [[Dimension]]
+#Math 
+Line is a [[1D]] path which extends infinitely to cover it's infinite [[1D space]]/world completely, but as all higher dimensions consists of infinite [[1D]] spaces a [[Line]] can exist in any dimensions except [[0D]]

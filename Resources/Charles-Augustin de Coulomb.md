@@ -1,0 +1,1 @@
+He was a French physicist and engineer who made significant contributions to the fields of mechanics and electromagnetism. Coulomb is best known for his work in electricity and magnetism, particularly for formulating [[Coulomb's Law]], which describes the electrostatic force between charged particles.

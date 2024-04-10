@@ -1,5 +1,5 @@
 #Math 
-# +1 Maths chapter 
+# +1 Math chapters 
 1. [[Sets]]
 2. [[ +1 Relations and functions ]]
 3. [[Trigonometric functions]]

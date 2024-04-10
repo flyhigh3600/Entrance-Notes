@@ -1,0 +1,28 @@
+canvas{
+background-color: #11083f09;
+}
+.graph-view{
+  opacity: 1;
+  
+}
+.graph-view.color-fill {
+  color: hsla(0, 0%, 100%, 0.911);
+}
+.graph-view.color-fill-unresolved {
+  color: #ffffff79;
+}
+.graph-view.color-circle {
+  color: #43910093;
+}
+.graph-view.color-line {
+  color: #ffffff4f;
+}
+.graph-view.color-text {
+  color: #c9ffdb71;
+}
+.graph-view.color-fill-highlight {
+  color: #449100e5;
+}
+.graph-view.color-line-highlight {
+  color: #43910093;
+}

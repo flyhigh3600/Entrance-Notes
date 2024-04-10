@@ -4,7 +4,40 @@
     "doShowAttachments": false
   },
   "groups": {
-    "groups": []
+    "groups": [
+      {
+        "query": "tag:#Math",
+        "color": "#8a7e00"
+      },
+      {
+        "query": "tag:#Physics",
+        "color": "#b83700"
+      },
+      {
+        "query": "tag:#Chemistry",
+        "color": "#008099"
+      },
+      {
+        "query": "tag:#Biology",
+        "color": "#009919"
+      },
+      {
+        "query": "tag:#Origin",
+        "color": "#52e0b1"
+      },
+      {
+        "query": "tag:#assosiated",
+        "color": "#c9ffb3"
+      },
+      {
+        "query": "tag:#Wikipedia",
+        "color": "#ffd700"
+      },
+      {
+        "query": "path:Drawings",
+        "color": "#840daf"
+      }
+    ]
   },
   "display": {
     "nodeSize": 5,

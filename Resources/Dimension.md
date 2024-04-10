@@ -1,3 +1,4 @@
+#Math #Physics 
 in [[Math]] especially [[Geometry]], [[Dimension]] doesn't really have a pleasing explanation so in a basic sense [[Dimension]]s are the minimum coordinate values needed to specify the position of an object or point in a specific space 
 #### Now let's just hear it like a kid's story shall we?:
 

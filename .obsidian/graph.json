@@ -55,18 +55,25 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "tag:#Wikipedia  ",
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 3.621875,
-  "lineSizeMultiplier": 1.75885416666667,
+  "nodeSizeMultiplier": 2.65208333333333,
+  "lineSizeMultiplier": 1.91197916666667,
   "collapse-forces": false,
-  "centerStrength": 0.40625,
+  "centerStrength": 0.583333333333333,
   "repelStrength": 20,
-  "linkStrength": 0.723958333333333,
-  "linkDistance": 275,
-  "scale": 0.45050811767578125,
-  "close": false
+  "linkStrength": 0.260416666666667,
+  "linkDistance": 500,
+  "scale": 0.200225830078125,
+  "close": true
 }

@@ -22,5 +22,3 @@ For details on replicating my setup, please refer to the [CONTRIBUTE](CONTRIBUTE
 ```
 
 <span style="color:#aaa">This project was created to help me prepare for entrance examinations like "JEE, NEET, CUET, etc."</span>
-```
-
