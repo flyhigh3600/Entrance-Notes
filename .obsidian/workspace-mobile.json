@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "6da751dacb32c0c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "17b73b4a01229c92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a10dc382dd911043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Quantum Physics/todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18711578a544fdf9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "10e7a762a9f6b0f4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5aaa7bd71c83c7ae",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "66f6307d33b01128",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "9031855dd87daba9",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5d7982e47adfb9e8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cd22400006979308",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "f3cc8c05692c2118",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Resources/Quantum Physics/todo.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "36d3d584064bb3a3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Resources/Quantum Physics/todo.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "368af98556baa59a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Resources/Quantum Physics/todo.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "3d-graph:3D Graph": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "a10dc382dd911043",
+  "lastOpenFiles": [
+    "MIT OCW - The Nature of superposition , Mach-Zender.md",
+    "Resources/Quantum Physics/todo.md",
+    "MIT OCW - Quantum mechanics as a framework. Defining linearity.md",
+    "Quantum mechanics as a framework. Defining linearity.md",
+    "Static Electricity.md",
+    "Resources/1D.md",
+    "CONTRIBUTE.md",
+    "Resources/Quantum Physics",
+    "Sticky Notes.md",
+    "README.md",
+    "Math/Math.md",
+    "Math/+2 Math.md",
+    "Math/+1 Math.md"
+  ]
+}
