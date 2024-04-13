@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "096e29afc96aad7d",
+        "id": "de3ace792dcedfd9",
         "type": "tabs",
         "children": [
           {
-            "id": "4fbde10dfaa2f2d0",
+            "id": "85e6cdbed8232351",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/+2/Electric Charges and Fields.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "71d6db94737db647",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/+2/Electric Charges and Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/+2/Electric Charges and Fields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Physics/+2/Electric Charges and Fields.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,36 +148,38 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4fbde10dfaa2f2d0",
+  "active": "85e6cdbed8232351",
   "lastOpenFiles": [
     "Resources/Quantum Physics/Quantum Physics.md",
+    "Resources/Resources.md",
+    "Units and measurements.md",
     "Resources/Quantum Physics/todo.md",
-    "Resources/Quantum Physics",
-    "MIT OCW - The Nature of superposition , Mach-Zender.md",
-    "Static Electricity.md",
+    "Todos.md",
+    "Pasted image 20240413215425.png",
+    "Pasted image 20240413214457.png",
+    "Resources/Unit.md",
+    "Physics/+1 Physics.md",
+    "Physics/+1/Thermodynamics.md",
+    "Physics/+1/+1.md",
+    "Physics/Physics.md",
+    "Math/Math.md",
+    "Math/+1/Limits and Derivatives.md",
+    "Math/+2 Math.md",
+    "Resources/Quantum Physics/MIT OCW - Quantum mechanics as a framework. Defining linearity.md",
+    "CONTRIBUTE.md",
+    "Math/+2/+2.md",
+    "Math/+1/Conic sections.md",
+    "Math/+1/+1.md",
+    "MIT OCW - Free Schrödinger.md",
     "Physics/+2/Electric Charges and Fields.md",
+    "MIT OCW - The Nature of superposition , Mach-Zender.md",
+    "Resources/Quantum Physics",
+    "Static Electricity.md",
     "Resources/_wikipedia/_wikipedia.md",
     "Resources/_wikipedia/wiki_Triboelectric_effect.md",
     "Resources/_wikipedia/wiki_Gravitation.md",
-    "Resources/Resources.md",
     "LICENSE.md",
-    "Biology/Biology.md",
-    "Resources/Charles-Augustin de Coulomb.md",
-    "Resources/Electromagnetic Force.md",
-    "Quantum Mechanics.md",
-    "Quantum.md",
-    "Physics/+2 Physics.md",
-    "Physics/Physics.md",
-    "Electromagnetic.md",
-    "Resources/Fundamental forces.md",
-    "electron.md",
-    "Resources/Tribo electric effect.md",
     "Resources/_wikipedia",
-    "Physics/+2/+2.md",
-    "Math/+1 Math.md",
-    "Three dimensional Geometry.md",
-    "gases.md",
-    "Drawings.excalidraw.md",
     "Icons/make_Icon_SVG.py",
     "Icons",
     "gg.g",
@@ -204,8 +199,6 @@
     "Math.canvas",
     "README.canvas",
     "Resources/Pasted image 20240401153019.png",
-    "Resources/Pasted image 20240401145617.png",
-    "Resources/Pasted image 20240401144221.png",
-    "Pasted image 20240401005411.png"
+    "Resources/Pasted image 20240401145617.png"
   ]
 }
